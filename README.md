@@ -1,6 +1,12 @@
-<h1>Meu github</h1>
+<h1>Meu github 😊</h1>
 <h2>Oque ele tem?</h2>
 <p>Por enquanto nada, mas estou desenvolvendo <strong>alguns</strong> projetos</p>
+<h2>Quais?</h2>
+<ol>
+  <li>Health Time</li>
+  <li>Booru Tube</li>
+  <li>Por enquanto só</li>
+</ol>
 <!--
 **Guiokia/Guiokia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
