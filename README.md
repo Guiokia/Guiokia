@@ -1,3 +1,8 @@
+<style>
+  * {
+    color: red,
+  }
+</style>
 <h1>Meu github 😊</h1>
 <h2>Oque ele tem?</h2>
 <p>Por enquanto nada, mas estou desenvolvendo <strong>alguns</strong> projetos</p>
