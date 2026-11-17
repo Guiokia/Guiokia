@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<h1>Meu github</h1>
+<h2>Oque ele tem?</h2>
+<p>Por enquanto nada, mas estou desenvolvendo alguns projetos</p>
 <!--
 **Guiokia/Guiokia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>
-  Nois é cria
-</h1>
-<p>
-  Criatura
-</p>
